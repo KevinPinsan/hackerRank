@@ -1,0 +1,13 @@
+C:\Users\kevin\GitHub\hackerRank\simpleArraySum\bin\Debug\netcoreapp3.1\simpleArraySum.exe
+C:\Users\kevin\GitHub\hackerRank\simpleArraySum\bin\Debug\netcoreapp3.1\simpleArraySum.deps.json
+C:\Users\kevin\GitHub\hackerRank\simpleArraySum\bin\Debug\netcoreapp3.1\simpleArraySum.runtimeconfig.json
+C:\Users\kevin\GitHub\hackerRank\simpleArraySum\bin\Debug\netcoreapp3.1\simpleArraySum.runtimeconfig.dev.json
+C:\Users\kevin\GitHub\hackerRank\simpleArraySum\bin\Debug\netcoreapp3.1\simpleArraySum.dll
+C:\Users\kevin\GitHub\hackerRank\simpleArraySum\bin\Debug\netcoreapp3.1\simpleArraySum.pdb
+C:\Users\kevin\GitHub\hackerRank\simpleArraySum\obj\Debug\netcoreapp3.1\simpleArraySum.csprojAssemblyReference.cache
+C:\Users\kevin\GitHub\hackerRank\simpleArraySum\obj\Debug\netcoreapp3.1\simpleArraySum.AssemblyInfoInputs.cache
+C:\Users\kevin\GitHub\hackerRank\simpleArraySum\obj\Debug\netcoreapp3.1\simpleArraySum.AssemblyInfo.cs
+C:\Users\kevin\GitHub\hackerRank\simpleArraySum\obj\Debug\netcoreapp3.1\simpleArraySum.csproj.CoreCompileInputs.cache
+C:\Users\kevin\GitHub\hackerRank\simpleArraySum\obj\Debug\netcoreapp3.1\simpleArraySum.dll
+C:\Users\kevin\GitHub\hackerRank\simpleArraySum\obj\Debug\netcoreapp3.1\simpleArraySum.pdb
+C:\Users\kevin\GitHub\hackerRank\simpleArraySum\obj\Debug\netcoreapp3.1\simpleArraySum.genruntimeconfig.cache
